@@ -21,7 +21,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spyrlx.vercel.app/api/spotify)](https://open.spotify.com/user/spyrlx)
+[![Spotify](https://spotify-spyrlx.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 
 
 <!-- LINKS -->
