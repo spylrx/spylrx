@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**spylrx/spylrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi [spylrx][youtube] here 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Twitter Follow](https://img.shields.io/twitter/follow/spylrx?color=%231DA1F2&logo=twitter&style=flat-square)
+<!-- LINKS -->
+[youtube]: https://www.youtube.com/c/EtoYoshimura2/videos
